@@ -1,0 +1,25 @@
+{
+  "name": "gerluzia.html",
+  "version": "1.0.0",
+  "description": "Página de divulgação de costura",
+  "keywords": [
+    "MariaClara2025"
+  ],
+  "homepage": "https://github.com/mariscordeiro99-sudo/Gerluzia.html#readme",
+  "bugs": {
+    "url": "https://github.com/mariscordeiro99-sudo/Gerluzia.html/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariscordeiro99-sudo/Gerluzia.html.git"
+  },
+  "license": "ISC",
+  "author": "Marian",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx live-server",
+    "test": "echo \"Erro: nenhum teste especificado\" && exit 1"
+  }
+}
+// https://mariscordeiro99-sudo.github.io/Gerluzia.html/#pricing
